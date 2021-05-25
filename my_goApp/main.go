@@ -8,5 +8,5 @@ import (
 func main() {
 	authorize.Auth()
 
-	fmt.Println("work")
+	fmt.Println("work!")
 }
